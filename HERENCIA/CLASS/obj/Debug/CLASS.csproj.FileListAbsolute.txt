@@ -1,0 +1,18 @@
+C:\Users\josez\source\repos\HERENCIA\CLASS\bin\Debug\CLASS.dll
+C:\Users\josez\source\repos\HERENCIA\CLASS\bin\Debug\CLASS.pdb
+C:\Users\josez\source\repos\HERENCIA\CLASS\obj\Debug\CLASS.csprojAssemblyReference.cache
+C:\Users\josez\source\repos\HERENCIA\CLASS\obj\Debug\CLASS.csproj.CoreCompileInputs.cache
+C:\Users\josez\source\repos\HERENCIA\CLASS\obj\Debug\CLASS.dll
+C:\Users\josez\source\repos\HERENCIA\CLASS\obj\Debug\CLASS.pdb
+C:\Users\Usuario\Desktop\PROG. VISUAL\PRUEBA\HERENCIA\CLASS\bin\Debug\CLASS.dll
+C:\Users\Usuario\Desktop\PROG. VISUAL\PRUEBA\HERENCIA\CLASS\bin\Debug\CLASS.pdb
+C:\Users\Usuario\Desktop\PROG. VISUAL\PRUEBA\HERENCIA\CLASS\obj\Debug\CLASS.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROG. VISUAL\PRUEBA\HERENCIA\CLASS\obj\Debug\CLASS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROG. VISUAL\PRUEBA\HERENCIA\CLASS\obj\Debug\CLASS.dll
+C:\Users\Usuario\Desktop\PROG. VISUAL\PRUEBA\HERENCIA\CLASS\obj\Debug\CLASS.pdb
+C:\Users\Usuario\Desktop\PROG. VISUAL\EXAMEN\PRUEBA\HERENCIA\CLASS\bin\Debug\CLASS.dll
+C:\Users\Usuario\Desktop\PROG. VISUAL\EXAMEN\PRUEBA\HERENCIA\CLASS\bin\Debug\CLASS.pdb
+C:\Users\Usuario\Desktop\PROG. VISUAL\EXAMEN\PRUEBA\HERENCIA\CLASS\obj\Debug\CLASS.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROG. VISUAL\EXAMEN\PRUEBA\HERENCIA\CLASS\obj\Debug\CLASS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROG. VISUAL\EXAMEN\PRUEBA\HERENCIA\CLASS\obj\Debug\CLASS.dll
+C:\Users\Usuario\Desktop\PROG. VISUAL\EXAMEN\PRUEBA\HERENCIA\CLASS\obj\Debug\CLASS.pdb
